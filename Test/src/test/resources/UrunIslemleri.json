@@ -1,0 +1,74 @@
+[
+
+  {
+    "key": "IlkUrun",
+    "androidValue": "(//android.widget.ImageView[@content-desc=\"ürün fotoğrafı\"])[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SepeteEkleButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+    "androidType": "id"
+  },
+  {
+    "key": "SepeteGitButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "SepettekiUrun",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SepetimButonu",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Sepetim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SepetimUrunKontrolu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SepettekiUrununSilinmeButonu",
+    "androidValue": "//android.view.View[@content-desc=\"Sepetten Çıkar\"]/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UrunSilmeDogrulama",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SepetBoşTextMesajı",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View[1]/android.view.View/android.view.View/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FavoriEklemeButonu",
+    "androidValue": "favoriye_ekle",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "FavoridekiUrunSolUstKosedekiUcNokta",
+    "androidValue": "//android.view.View[@content-desc=\"1 399,00 TL Link Gelir'le %5 kazanç gelsin Paşabahçe F&d Burgonya Bardağı 588 cc 6 Adet Sepete ekle\"]/android.view.View[1]/android.view.View",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FavoriSilmeKontrol",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FavoriSilmeButonu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FavoriSilindiMesajı",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  }
+
+]

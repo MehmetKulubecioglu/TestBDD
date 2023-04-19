@@ -1,0 +1,37 @@
+[
+  {
+    "key": "AndroidHomePageHepsiburada",
+    "androidValue": "Hepsiburada",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaHomeSearch",
+    "androidValue": "com.pozitron.hepsiburada:id/etSearchBox",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomeSearchBtn",
+    "androidValue": "Arama",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiBuradaProfilIkonu",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "GeriGitmeTusu",
+    "androidValue": "com.pozitron.hepsiburada:id/leftIcon",
+    "androidType": "id"
+  },
+  {
+    "key": "ListelerimButonu",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Listelerim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "",
+    "androidValue": "",
+    "androidType": ""
+  }
+]

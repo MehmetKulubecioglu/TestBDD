@@ -1,0 +1,67 @@
+[
+  {
+    "key": "HesabımUyeOlButonu",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UyeOlEpostaGirisi",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "UyeOlEpostaDevamButonu",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "DogrulamaTextMesajı",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "MisafirKullanıcıYazısı",
+    "androidValue": "com.pozitron.hepsiburada:id/tvToolbarTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "GirisYapButonu",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_1\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GirisYapEpostaAlanı",
+    "androidValue": "txtUserName",
+    "androidType": "id"
+  },
+  {
+    "key": "GirisYapEpostaDevamButonu",
+    "androidValue": "btnLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "GirisYapHosGeldinizYazısı",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GirisYapSifreGirisAlanı",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GirisYapButonu",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  },
+  {
+    "key": "KeyifliAlısverislerMesajı",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  },
+  {
+    "key": "MesajTamamButonu",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  }
+]

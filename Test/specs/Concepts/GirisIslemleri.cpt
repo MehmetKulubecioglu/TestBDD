@@ -1,0 +1,21 @@
+# Uye olma islemi yapilir
+* "AndroidHomePageHepsiburada" id'li element varsa tikla
+* "HepsiBuradaProfilIkonu" li element gorunur olana kadar bekle
+* "HepsiBuradaProfilIkonu" id'li elemente tikla
+* "HesabımUyeOlButonu" id'li elemente tikla
+* "5" saniye kadar bekle
+* "UyeOlEpostaGirisi" id'li elemente "testhepsiburada@outlook.com" text degerini gonder
+* "DogrulamaTextMesajı" xpath'li element gorunur olana kadar bekle
+
+# Uye Olunan Bir Hesap Ile Basarili Giris Yapilir
+* "AndroidHomePageHepsiburada" id'li element varsa tikla
+* "HepsiBuradaProfilIkonu" li element gorunur olana kadar bekle
+* "HepsiBuradaProfilIkonu" id'li elemente tikla
+* "MisafirKullanıcıYazısı" li elementin oldugu kontrol edilir
+* "GirisYapEpostaAlanı" id'li elemente "testhepsiburada@outlook.com" text degerini gonder
+* "GirisYapHosGeldinizYazısı" li elementin oldugu kontrol edilir
+* "GirisYapSifreGirisAlanı" id'li elemente "Testtest1234" text degerini gonder
+* "GirisYapButonu" id'li elemente tikla
+* "KeyifliAlısverislerMesajı" li elementin oldugu kontrol edilir
+* "MesajTamamButonu" id'li elemente tikla
+

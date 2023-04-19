@@ -1,0 +1,34 @@
+# Urun Araması Yapilir
+* "AndroidHomePageHepsiburada" id'li element varsa tikla
+* "HepsiburadaHomeSearch" li element gorunur olana kadar bekle
+* "HepsiburadaHomeSearch" id'li elemente "bardak" text degerini gonder
+* "HepsiburadaHomeSearchBtn" id'li elemente tikla
+
+
+# Sepete Urun Ekleme
+* "IlkUrun" id'li elemente tikla
+* "SepeteEkleButonu" li elementin oldugu kontrol edilir
+* "SepeteEkleButonu" id'li elemente tikla
+* "SepeteGitButonu" id'li elemente tikla
+* "SepettekiUrun" li elementin oldugu kontrol edilir
+
+
+# Sepetten Urun Silme
+* "SepetimButonu" id'li element varsa tikla
+* "SepetimUrunKontrolu" li element gorunur olana kadar bekle
+* "SepettekiUrununSilinmeButonu" xpath'li elemente tikla
+* "UrunSilmeDogrulama" id'li element varsa tikla
+* "SepetBoşTextMesajı" li elementin oldugu kontrol edilir
+
+# Favorilere Urun Ekleme
+* "IlkUrun" id'li elemente tikla
+* "FavoriEklemeButonu" id'li element varsa tikla
+* "GeriGitmeTusu" id'li elemente tikla
+* "ListelerimButonu" id'li elemente tikla
+* "SepettekiUrun" li elementin oldugu kontrol edilir
+
+# Favorilerden Urun Silme
+* "FavoridekiUrunSolUstKosedekiUcNokta" id'li elemente tikla
+* "FavoriSilmeKontrol" li elementin oldugu kontrol edilir
+* "FavoriSilmeButonu" id'li elemente tikla
+* "FavoriSilindiMesajı" li elementin oldugu kontrol edilir
